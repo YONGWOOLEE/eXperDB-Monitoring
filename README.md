@@ -123,7 +123,7 @@ postgres=# create extension experdb_mon;
 ### Installation procedure
 1. Run eXperDB.Monitoring_XXX.exe
 
-### Documentation
+# Documentation
 [User Manaual](https://github.com/YONGWOOLEE/eXperDB-Monitoring/tree/master/document/eXperDB-Monitoring_User_Manual_v10.4_d3.02.pdf)
 
 # Copyright
